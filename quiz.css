@@ -1,0 +1,56 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: url("WhatsApp Image 2025-03-27 at 22.08.46_e177207f.jpg") no-repeat center center/cover;
+    color: aliceblue;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#heading {
+    font-size: 3rem;
+    background: -webkit-linear-gradient(45deg, #ff9a9e, #fad0c4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
+    margin-bottom: 10px;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
+}
+
+#quiz button {body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-image:url("WhatsApp Image 2025-03-27 at 22.08.46_e177207f.jpg");
+    color:aliceblue;
+    padding: 0;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+    display: block;
+    margin: 15px auto;
+    padding: 12px 25px;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #ff758c, #ff7eb3);
+    color: white;
+
+
+}
+#quiz button:hover {
+    background-color:aliceblue;
+    color: black;
+}
